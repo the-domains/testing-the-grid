@@ -1,7 +1,7 @@
 name: TESTING THE GRID
 favicon: null
-layout_spectrum: 0.6472674962133169
-typography_spectrum: 0.44622045080177486
+layout_spectrum: 1
+typography_spectrum: 0.75567
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.8263966855593026
-  lightness: 0.6666167206130922
-  saturation: 0.208055050810799
-  rhythmicContrast: 0.9491000284906477
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
